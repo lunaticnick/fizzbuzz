@@ -2,5 +2,5 @@
 The goal of Fizzbuzz is to introduce you to Test Driven Development (TDD) and Pair Programming.
 
 Contributors: 
-- Nikolaos I. Sakellarios
+- Nikolaos Sakellarios
 - Lars Finlay
