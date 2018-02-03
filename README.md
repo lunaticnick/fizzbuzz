@@ -5,3 +5,4 @@ Fizzbuzz is normally of the first programs one writes when trying a new language
 Contributors:
 - Nikolaos Sakellarios
 - Lars Finlay
+- Xin Wang
